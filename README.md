@@ -36,21 +36,20 @@ It uses interactive quizzes to make learning fun, simple, and empowering! 🌍�
 
 ## 🌍 Project Goal — UN SDG 1: No Poverty
 
-### This project supports United Nations Sustainable Development Goal 1: No Poverty 🕊️
+This project supports United Nations Sustainable Development Goal 1: No Poverty 🕊️
 by helping communities learn practical financial literacy skills —
 empowering families to budget better, save smarter, and spend wisely. 💪🏽
 
 ## 🌱 Future Upgrades
-
-### 🚀 Add a database to save user progress.
-### 🌐 Support local languages (like Swahili).
-### 🧩 Add AI-powered budgeting tips.
-### 📱 Make a mobile-friendly version using Kivy or Flask.
+🚀 Add a database to save user progress.
+🌐 Support local languages (like Swahili).
+🧩 Add AI-powered budgeting tips.
+📱 Make a mobile-friendly version using Kivy or Flask.
 
 ## 👩🏽‍💻 Author
-### Maimuna🩵
-### 💬 “Tech can fight poverty — one smart idea at a time.”
-### 📧 [Add your contact or GitHub link here]
+Maimuna🩵
+💬 “Tech can fight poverty — one smart idea at a time.”
+📧 [Add your contact or GitHub link here]
 
 ## 🎉 Thank You for Using the App!
-###If this project inspired you, give it a ⭐ on GitHub and share it with others! 🌟
+If this project inspired you, give it a ⭐ on GitHub and share it with others! 🌟
